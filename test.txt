@@ -2,3 +2,6 @@ This is a simple test of git
 Some more stuff
 
 Made an edit to the file
+
+More edits...
+
